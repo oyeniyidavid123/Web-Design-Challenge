@@ -82,7 +82,7 @@ Small screen:
 #### Comparisons page
 
 Large screen:
-![comparison page large screen](Images/comparison-lg.png)
+![image](https://user-images.githubusercontent.com/57304123/88919063-5891f100-d21f-11ea-8509-73bfb7df085d.png)
 
 Small screen:
 ![comparison page small screen](Images/comparison-sm.png)
