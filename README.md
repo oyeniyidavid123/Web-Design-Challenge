@@ -1,8 +1,7 @@
 # Web-Design-Challenge
 ## Background
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
-
-Images/landingResize.png
+![image](https://user-images.githubusercontent.com/57304123/88918032-a279d780-d21d-11ea-8f9c-99ae79fa39d0.png)
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 For this homework we'll be creating a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be plotting weather data.
