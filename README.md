@@ -76,7 +76,7 @@ Large screen:
 ![image](https://user-images.githubusercontent.com/57304123/88918242-02707e00-d21e-11ea-823c-0093d2a723ad.png)
 
 Small screen:
-![Landing page small screen](Images/landing-sm.png)
+![image](https://user-images.githubusercontent.com/57304123/88918753-d9042200-d21e-11ea-8149-173dfcc45842.png)
 ￼
 
 #### Comparisons page
