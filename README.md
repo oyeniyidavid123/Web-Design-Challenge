@@ -97,8 +97,6 @@ Small screen:
 
 #### Visualization pages
 
-You'll build four of these, one for each visualization. Here's an example of one:
-
 
 
 
