@@ -105,7 +105,7 @@ Large screen:
 Small screen:
 ![visualize page small screen](Images/visualize-sm.png)
 
-#### Navigation menu
+
 
 
 
