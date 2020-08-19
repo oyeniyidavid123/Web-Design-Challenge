@@ -103,7 +103,6 @@ Large screen:
 ![visualize page large screen](Images/visualize-lg.png)
 
 Small screen:
-![visualize page small screen](Images/visualize-sm.png)
 
 
 
